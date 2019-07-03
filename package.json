@@ -1,0 +1,18 @@
+{
+  "name": "business-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JS",
+    "Jest"
+  ],
+  "author": "Roberto Segura",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
